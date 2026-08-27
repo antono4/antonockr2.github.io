@@ -1,1 +1,26 @@
-Last updated: 2026-08-27 22:28:07 WIB
+# antonockr2.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **89 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-27 23:14:53 WIB*
